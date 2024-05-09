@@ -1,0 +1,5 @@
+
+ihpc-login1 139 % pwd
+/ascldap/users/ajpowel
+
+ihpc-login1 139 % scp -vr powell56@oslic.llnl.gov:/g/g20/powell56/assembly_from_profiling_mpi_lassen_2024_04_*.nsys-rep .
